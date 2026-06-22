@@ -152,6 +152,21 @@ The complete analysis workflow can be summarized as follows:
 7. **Allelic effect analysis**
    Selected marker-trait associations are explored using genotype-specific phenotypic distributions.
 
+## `SupplementaryTables/`
+
+Folder containing the supplementary tables associated with the Master's Thesis:
+
+- `ST1`: Plant material, sample identifiers and inclusion status for phenotyping, genotyping and GWAS.
+- `ST2`: Number of individuals evaluated by trait type and environment.
+- `ST3`: Performance of nutritional trait prediction models.
+- `ST4`: Number of kernel and shell images processed by environment.
+- `ST5`: GWAS marker-trait association results.
+- `ST6`: Variant annotation summary.
+- `ST7`: Annotated variant records in VCF-like format.
+- `ST8`: Candidate genes located near significant GWAS markers, including functional annotations and Arabidopsis homolog information.
+
+Large supplementary tables, such as `ST8`, may also be provided as compressed files.
+
 ## Requirements
 
 The scripts are written in R and require several CRAN, Bioconductor and specialized packages, including:
