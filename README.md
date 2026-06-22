@@ -1,9 +1,5 @@
 # Genome-wide association study for morphological and nutritional traits in almond using high-throughput genotyping and phenotyping
 
-<p align="center">
-  <img src="figures/SelloUMU-positivo.png" alt="Universidad de Murcia logo" width="180"/>
-</p>
-
 ## Project information
 
 **Author:** Dr. Jorge Mas Gómez
